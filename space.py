@@ -1,7 +1,7 @@
 """
 Part 1
-una función que devuelve un arreglo de enteros con los pares a la izquierda 
-y los impares a la derecha. El input es un arreglo de enteros.
+A function that return an array with integers, the even should be on the left 
+and odds on the right. The input is an array of integers.
 
 Pseudocode
 array given
