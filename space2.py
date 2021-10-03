@@ -1,8 +1,6 @@
 """
 Part 2
 Optimize the previous code to reduce the runtime and memory.
-arraySimple = [1,2,3,4,35,12,52,128,256,512]
-arraySimpleSortArrayRightAndEvenLeft
 
 Pseudocode
 set an empty array
